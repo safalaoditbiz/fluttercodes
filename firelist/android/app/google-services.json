@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252905791066",
+    "project_id": "firelist-c1f20",
+    "storage_bucket": "firelist-c1f20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252905791066:android:e24ead25d2ef4eb67f4263",
+        "android_client_info": {
+          "package_name": "com.example.firelist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuzyyrJL34KljmMyt50nuOqezCpyum7EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "235223965341",
+    "project_id": "eduotp-d86a6",
+    "storage_bucket": "eduotp-d86a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235223965341:android:14cdf6e65717dc202f3e74",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235223965341-668upuc37hopj1v5fllkpipptf6kvmlc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.application",
+            "certificate_hash": "d4fbc8fcca08808b57d2f29f1ad83058921c584f"
+          }
+        },
+        {
+          "client_id": "235223965341-e955v31qgfp9l561apceda53f8jpqadn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBleNKNUrfSfK-uPi5oo8SxWSW379xhqks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235223965341-e955v31qgfp9l561apceda53f8jpqadn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

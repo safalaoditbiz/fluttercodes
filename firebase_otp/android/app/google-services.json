@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "792380119647",
+    "project_id": "firbaseotp-69dbf",
+    "storage_bucket": "firbaseotp-69dbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792380119647:android:be1999cdb4144550f119ea",
+        "android_client_info": {
+          "package_name": "com.example.firebase_otp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792380119647-kkj5df5qi4afrmm771knrj87tghfe0f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiyQ32k3a5YlX7Sw3Y7T8GDJ1KOh58DS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792380119647-kkj5df5qi4afrmm771knrj87tghfe0f3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
